@@ -1,0 +1,6 @@
+{
+  "name": "Fluxora",
+  "description": "Technology crafted for all, not machines. A high-fidelity recreation of the modern Fluxora developer hero layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
